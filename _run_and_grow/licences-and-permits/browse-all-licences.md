@@ -246,14 +246,14 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Liquor Consumption Permit](https://dashboard.gobusiness.gov.sg/task-details/dd983343-46ff-4901-81ec-869ceb96827b)
 - [Liquor Licence - Extension of Operating Hours](https://dashboard.gobusiness.gov.sg/task-details/liquorlicenceextensionophrs)
 - [Liquor Licence (Class 1A, 1B, 2A, 2B, 3A, 3B, 4)](https://dashboard.gobusiness.gov.sg/task-details/liquor-licence-class-1a-1b-2a-2b-3a-3b-4)
-- [Permit for Temporary Fair](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000341)
+- [Permit for Temporary Fair](https://dashboard.gobusiness.gov.sg/task-details/permit-for-temporary-fair)
 - [Registration of Food Storage Warehouses](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000333)
 - [Registration to Import Animal Feed](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1310161601000052)
 - [Registration to Import Live Frogs for Human Consumption](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1309261101000025)
 - [Registration to Import Processed Food Products and Food Appliances](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146)
 - [Rice Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38)
 - [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
-- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000342)
+- [Temporary Fair Stall Licence](https://dashboard.gobusiness.gov.sg/task-details/temporary-fair-stall-licence)
 
 <a name="health-and-wellness-services"></a>
 
