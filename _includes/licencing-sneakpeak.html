@@ -1,0 +1,88 @@
+<style>
+  [class*="campaigncard"] {
+    font-family: hknova-regular;
+  }
+  
+  .campaigncard__container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+    justify-content: space-between;
+    background-color: #ffffff;
+    border: 1px solid #dbdfe4;
+    border-radius: 5px;
+    padding: 24px;
+    max-width: 1140px;
+    margin: auto;
+    font-family: 'HK Nova';
+  }
+  
+  .campaigncard__contents {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .campaigncard__container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .campaigncard__contents {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+  
+  .campaigncard__img {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  
+  .campaigncard__img img {
+    width: 100%;
+  }
+  
+  .campaigncard__text {
+    max-width: 510px;
+  }
+  
+  .campaigncard__title {
+    font-family: hknova-semibold;
+    color: #037e8a;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+  
+  .campaigncard__body {
+    color: #313840;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 0 0 0;
+  }
+  
+  
+  </style>
+  <div class="campaigncard__container">
+    <div class="campaigncard__contents">
+      <div class="campaigncard__img">
+        <img src="/images/Sneak-Peek-img.svg">
+      </div>
+      <div class="campaigncard__text">
+        <div class="campaigncard__title">Get a sneak peak of our new licensing portal</div>
+        <div class="campaigncard__body">Try a few quick interactions and share your thoughts. Your feedback will shape the redesign. This will take about 5 minutes.
+        </div>
+      </div>
+    </div>
+    <div class="campaigncard__CTA">
+      {% include primary-btn.html href="https://go.gov.sg/gobiz-uxresearch" text="Start" target="_blank" %}
+    </div>
+  </div>

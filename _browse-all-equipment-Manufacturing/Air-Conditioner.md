@@ -26,6 +26,9 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 
 ### Pre-Approved Equipment Brands and Models
 
+- AVOLTA - SGTC4T-S1B09
+- AVOLTA - SGTC4T-S1B12
+- Daikin - MKC70WVMG
 - Daikin - MKM100VVMG
 - Daikin - MKM50VVMG
 - Daikin - MKM75VVMG
@@ -70,6 +73,8 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Daikin - RXUQ8AYM
 - Daikin - RXUQ8AYMG
 - Daikin - RXUQ8AYMW
+- Daikin - RZF50CV1G
+- Daikin - RZF60CV1G
 - Enovatek Energy - EES-ADC09GW-XA-32R+5
 - Enovatek Energy - EES-ADC12GW-XA-32R+5
 - Enovatek Energy - EES-ADC18GW-XA-32R+5
@@ -80,10 +85,14 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - EuropAce - ESAC21CUD
 - EuropAce - ESAC28CUD
 - EuropAce - ESAC32CUD
+- EvoAir - W152
 - Fujitsu - AJA040LELBH
 - Fujitsu - AJA045LELBH
 - Fujitsu - AOAG09CMTA
 - Fujitsu - AOAG12CMTA
+- Fujitsu - AOAG18CMTA
+- Fujitsu - AOAG24CMTA
+- Fujitsu - AOAG30CMTA
 - Fujitsu - AOAH24CBTA
 - Fujitsu - AOAH24CBTA3
 - Fujitsu - AOAH30CBTA4
@@ -95,6 +104,7 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - GREE - GMVL-280WM/G-X(P)
 - GREE - GWC09ATDXD-K6DNA3A/O
 - GREE - GWC12ATDXE-K6DNA3A/O
+- GREE - GWC18ATEXF-K6DNA3B/O
 - GREE - GWCD(18)NK6AO
 - GREE - GWCD(18)NK6GO
 - GREE - GWCD(21)NK6AO
@@ -102,9 +112,11 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - GREE - GWCD(28)NK6AO
 - GREE - GWCD(28)NK6GO
 - GREE - GWCD(32)NK6AO
+- GREE - GWCD(32)NK6EO
 - Haier - 4U65RH1SRA
 - Haier - 4U80SH1SRA
 - Haier - 5U90NH1SRA
+- Hitachi - PAS-2.0UFASNQ1
 - Hitachi - RAM-Z23C2MS
 - Hitachi - RAM-Z30C3MS
 - Hitachi - RAM-Z38C4MS
@@ -127,27 +139,39 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - LG - ARUN162LTE6
 - LG - ARUN180LTE5
 - LG - ARUN182LTE6
+- LG - ARUV030GSD0
 - LG - Z3UQ18GFA0
 - LG - Z3UQ26GFA0
 - LG - Z4UQ28GFA0
 - LG - ZRUV030GSD5
 - LG - ZRUV040GSD5
 - LG - ZRUV050GSD5
+- LG - ZRUV060GSD5
+- LG - ZUUQ18GH0
+- LG - ZUUQ21GH0
 - Midea - M4OA-28CRFN8E
 - Midea - M4OA-32CRFN8E
 - Midea - M5OA-40CRFN8E
 - Midea - MAE-2M18E
+- Midea - MAE-3M21D
 - Midea - MAE-3M25E
+- Midea - MAE-4M28D
 - Midea - MAE-4M30E
 - Midea - MAS-1S09E
+- Midea - MAS-1S12D
 - Midea - MCE-2M16E
 - Midea - MCE-4M28E
 - Midea - MDV-V28WDHN1(SG)
 - Midea - MDV-V36WDHN1(SG)
+- Midea - MDV-V42WDHN1(SG)
 - Midea - MKC-2M15E
 - Midea - MKC-3M22E
 - Midea - MKC-4M27E
 - Midea - MMY-MUP1401T8P-SG
+- Midea - MPAG-1S12D
+- Midea - MSEOD-09
+- Midea - MSM-3M21D
+- Midea - MSM-4M28D
 - Midea - MVC-M252WV2GN1(G)
 - Midea - MVC-M280WV2GN1(G)
 - Midea - MVC-M335WV2GN1(G)
@@ -157,6 +181,10 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Midea - MVC-M560WV2GN1(G)
 - Mitsubishi Electric - FDC280CKXZA2-S8
 - Mitsubishi Electric - MUY-GP10VF
+- Mitsubishi Electric - MUY-GP13VF
+- Mitsubishi Electric - MUY-GP15VF
+- Mitsubishi Electric - MUY-GP18VF
+- Mitsubishi Electric - MUY-GP24VF2
 - Mitsubishi Electric - MXY-2H20VF
 - Mitsubishi Electric - MXY-3H28VG
 - Mitsubishi Electric - MXY-3H28VG2
@@ -210,14 +238,22 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Mitsubishi Electric - PUMY-CP225YKM2-PA-BS
 - Mitsubishi Electric - PUMY-CP225YKM-PA
 - Mitsubishi Electric - PUMY-CP225YKM-PA-BS
+- Mitsubishi Electric - PUY-M100VKA3-SG
+- Mitsubishi Electric - SUY-M60VA-SG
+- Mitsubishi Electric - SUY-M80VA-SG
 - Mitsubishi Electric - SUY-ZM50VA-SG
 - Mitsubishi Heavy Industries - FDC335CKXZA2
 - Mitsubishi Heavy Industries - FDC400CKXZA2
 - Mitsubishi Heavy Industries - FDCS335CKXZA2
 - Mitsubishi Heavy Industries - FDCS400CKXZA2
+- Mitsubishi Heavy Industries - SCM30YS-W
+- Mitsubishi Heavy Industries - SCM40YS-W
 - Mitsubishi Heavy Industries - SCM60YS-W
 - Mitsubishi Heavy Industries - SCM80YS-W
 - Mitsubishi Heavy Industries - SRC10YVS-W7
+- Mitsubishi Heavy Industries - SRC10YYS-W8
+- Mitsubishi Heavy Industries - SRC13YVS-W7
+- Mitsubishi Heavy Industries - SRC13YYS-W8
 - Natflow - NRV-308
 - Natflow - NRV-310
 - Natflow - NRV-312
@@ -231,9 +267,14 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Panasonic - CU-4XU33YBZ-H
 - Panasonic - CU-4XU38YBZ
 - Panasonic - CU-4XU38YBZ-H
+- Panasonic - CU-XU12XKZ
+- Panasonic - CU-XU18XKZ
+- Panasonic - CU-XU9BKZ
 - Panasonic - CU-XU9XKZ
 - Panasonic - U-10ME2R8
 - Panasonic - U-10ME2R8E
+- Panasonic - U-18PRH1Z5
+- Panasonic - U-24PRH1Z5
 - Panasonic - U-8ME2R8
 - Panasonic - U-8ME2R8E
 - PRISM+ - PRCZ28
@@ -259,6 +300,11 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Toshiba - RAS-3M41U2ACVG-SG
 - Toshiba - RAS-4M41U2ACVG-SG
 - Toshiba - RAS-5M51U2ACVG-SG
+- Toshiba - RAV-GE1001AP-SG
+- Toshiba - RAV-GE1301AP-SG
+- Toshiba - RAV-GE1801AP-SG
+- Toshiba - RAV-GE2501AP-SG
+- Toshiba - RAV-GE3601AP-SG
 - Tosot - TR32SAC18CUD
 - Tosot - TR32SAC21CUD
 - Tosot - TR32SAC28CUD

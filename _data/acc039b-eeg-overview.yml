@@ -1,60 +1,201 @@
-accordion:
-  - title: Who can apply?
-    content: |
-      Applicants must meet all the following eligibility criteria at the point of application for the respective tiers of support:
-      - Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level
-      - Has a group annual sales Turnover of no more than S$500mil
-      - The equipment purchased must be used in Singapore
+- accordion:
+  letter: a
+  data:
+    - title: Who can apply?
+      content: |
+        Applicants must meet all the following eligibility criteria at the point of application for the respective tiers of support:
+        - Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level
+        - Has a group annual sales Turnover of no more than S$500mil
+        - The equipment purchased must be used in Singapore
 
-      The project shall not have commenced at the time of application.
+        The project shall not have commenced at the time of application.
 
-      <table>
-        <tr>
-          <th>Tier</th>
-          <th>Eligibility</th>
-        </tr>
-        <tr>
-          <td>Base Tier</td>
-          <td>
-            <ul>
-              <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services, and Retail sector as defined below:</li>
+        <table>
+          <tr>
+            <th>Tier</th>
+            <th>Eligibility</th>
+          </tr>
+          <tr>
+            <td>Base Tier</td>
+            <td>
               <ul>
-                <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
-                <li>Food Services companies must have valid Singapore Food Agency (SFA) licence and be classified under SSIC 56 or 68104</li>
-                <li>Retail companies that are classified under SSIC 47</li>
-                <li>Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level</li>
-                <li>Has a group annual sales turnover of no more than S$500mil</li>
-                <li>The equipment purchased must be used in Singapore</li>
+                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing), Food Services and Retail sector as defined below:</li>
+                <ul>
+                  <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
+                  <li>Food Services companies must have valid Singapore Food Agency (SFA) licence and be classified under SSIC 56 or 68104</li>
+                  <li>Retail companies that are classified under SSIC 47</li>
+                  <li>Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level</li>
+                  <li>Has a group annual sales turnover of no more than S$500mil</li>
+                  <li>The equipment purchased must be used in Singapore</li>
+                </ul>
               </ul>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>Advanced Tier (<b>only available for selected sectors*</b>)</td>
-          <td>
-            <ul>
-              <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing) sector as defined below:</li>
+            </td>
+          </tr>
+          <tr>
+            <td>Advanced Tier (<b>only available for selected sectors*</b>)</td>
+            <td>
               <ul>
-                <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
-                <li>Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level</li>
-                <li>Has a group annual sales turnover of no more than S$500mil</li>
-                <li>The equipment purchased must be used in Singapore</li>
+                <li>Business entity registered and operating in Singapore in the Manufacturing (including Food Manufacturing) sector as defined below:</li>
+                <ul>
+                  <li>Manufacturing companies that are classified under SSIC 10 to 32 (including Food Manufacturing)</li>
+                  <li>Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level</li>
+                  <li>Has a group annual sales turnover of no more than S$500mil</li>
+                  <li>The equipment purchased must be used in Singapore</li>
+                </ul>
               </ul>
-            </ul>
-          </td>
-        </tr>
-      </table>
-      *only applicable for companies in the Manufacturing sector.
+            </td>
+          </tr>
+        </table>
+        *only applicable for companies in the Manufacturing sector.
 
-      You may also wish to use our [calculator to estimate your EEG grant support](https://go.gov.sg/eeg-checker){:target="_blank"}{:rel="noopener"}.
+        You may also wish to use our [calculator to estimate your EEG grant support](https://go.gov.sg/eeg-checker){:target="_blank"}{:rel="noopener"}.
 
-      As announced at Budget 2024, EEG will be expanded to more sectors including Construction, Maritime, and Data Centres and their users by end 2024. More details will be released in due course. 
+        As announced at Budget 2024, EEG will be expanded to more sectors including Construction, Maritime, and Data Centres and their users by end 2024. More details will be released in due course. 
 
-  - title: How to apply and submit EEG claims?
-    content: |
-      For companies in the Food Services and Retail sectors:
-      - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+    - title: How to apply and submit EEG claims?
+      content: |
+        Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
-      For companies in the Manufacturing sector:
-      - Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
-      
+        For companies in the Construction sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
+
+        For companies in the Manufacturing sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>.
+
+        For companies in the Maritime sector:
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>.
+       
+
+- accordion:
+  letter: b
+  data:
+    - title: Who can apply?
+      content: |
+        Applicants must meet all the following eligibility criteria at the point of application for the respective tiers of support:
+        - Has at least 1 local employee at the firm-level*
+        - Has a group annual sales turnover of no more than S$500mil
+        - The equipment purchased must be hosted at a commercial data centre in Singapore
+
+        The project shall not have commenced at the time of application.
+
+        <table>
+          <tr>
+            <th>Tier</th>
+            <th>Eligibility</th>
+          </tr>
+          <tr>
+            <td>Base Tier</td>
+            <td>
+              Business entity registered and operating in Singapore, that has:<br>
+              <ul>
+              <li>At least 1 local employee at the firm-level*, and</li>
+              <li>Group annual sales turnover no more than $500 million.</li>
+              </ul>
+              <br>
+              The equipment purchased must be hosted at a commercial data centre in Singapore
+            </td>
+          </tr>
+        </table>
+        *Business entity need not have a minimum of 30% local shareholding criteria
+        <br>
+        <br>
+        For more information, please contact <a title="" href="mailto:IT_Energy_Efficiency@imda.gov.sg" target="_blank" rel="noopener">IT_Energy_Efficiency@imda.gov.sg</a>.
+    - title: How to apply and submit EEG claims?
+      content: |
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+
+- accordion:
+  letter: c
+  data:
+    - title: Who can apply?
+      content: |
+        Applicants must meet all the following eligibility criteria at the point of application for the respective tiers of support:
+        - Registered or incorporated in Singapore, with at least 1 local employee at the group level
+        - Has a group annual sales Turnover of no more than S$500mil
+        - The equipment purchased must be used in Singapore
+
+        The project shall not have commenced at the time of application.
+
+        <table>
+          <tr>
+            <th>Tier</th>
+            <th>Eligibility</th>
+          </tr>
+          <tr>
+            <td>Base Tier</td>
+            <td>
+              Business entity registered and operating in the harbourcraft and port sector in Singapore as defined below:<br>
+              <ul>
+              <li>Harbourcraft</li>
+              <ul>
+              <li>Companies owning/operating harbourcraft licensed by MPA</li>
+              </ul>
+              <li>Port</li>
+              <ul>
+              <li>Companies classified under SSIC 23940, 24109, 49231, 50021. 50023, 52101, 52221, 52222,52224, 52243,52292</li>
+              </ul>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>Advanced Tier</td>
+            <td>
+            Business entity registered and operating in the port sector in Singapore:
+                <ul>
+                  <li>Port</li>
+                  <ul>
+                  <li>Companies classified under SSIC 23940, 24109, 49231, 50021. 50023, 52101, 52221,52222, 52224, 52243,52292</li>
+                </ul>
+              </ul>
+            </td>
+          </tr>
+        </table>
+    - title: How to apply and submit EEG claims?
+      content: |
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="MPA_EEG@mpa.gov.sg" target="_blank" rel="noopener">MPA_EEG@mpa.gov.sg</a>.
+
+- accordion:
+  letter: d
+  data:
+    - title: Who can apply?
+      content: |
+        Applicants must meet all the following eligibility criteria at the point of application for the respective tiers of support:
+        - Has a minimum of 30% local shareholding, with at least 1 local employee at the firm-level
+        - Has a group annual sales Turnover of no more than S$500mil
+        - The equipment purchased must be used in Singapore
+
+        The equipment should not have been purchased prior to the EEG application.  
+
+        <table>
+          <tr>
+            <th>Tier</th>
+            <th>Eligibility</th>
+          </tr>
+          <tr>
+            <td>Base Tier</td>
+            <td>
+              Business entity registered and operating in Singapore in the Construction sector as defined below:<br>
+              <ul>
+              <li>Construction companies that are classified under SSIC 41 - 43</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>Advanced Tier</td>
+            <td>
+            Business entity registered and operating in Singapore in the Construction sector as defined below:
+                <ul>
+                  <li>Construction companies that are classified under SSIC 41 - 43</li>
+                </ul>
+            </td>
+          </tr>
+        </table>
+    - title: How to apply and submit EEG claims?
+      content: |
+        - Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+        - Applicants can apply for the EEG (Advanced) via this email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.
+    

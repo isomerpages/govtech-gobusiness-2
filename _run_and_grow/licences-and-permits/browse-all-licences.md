@@ -253,7 +253,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Registration to Import Processed Food Products and Food Appliances](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000146)
 - [Rice Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38)
 - [Supermarket Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442)
-- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000340)
+- [Temporary Fair Stall Licence](https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000342)
 
 <a name="health-and-wellness-services"></a>
 
@@ -322,7 +322,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 <a name="others"></a>
 
 ## Others
-- [Certificate of Registration and Hotel-keeper's Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3)
+- [Certificate of Registration and Hotel-keeper's Licence](https://dashboard.gobusiness.gov.sg/task-details/hotelkeeper)
 - [Company Registration (CR)](https://dashboard.gobusiness.gov.sg/task-details/cnb-company-registration)
 - [Licence for Residential Care Facilities](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063)
 - [Licence to Supply Professional Engineering Services](https://www.peb.gov.sg/lc_commonqueries.aspx)

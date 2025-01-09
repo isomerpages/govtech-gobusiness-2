@@ -50,7 +50,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - Dambo - H80B-HJ208-A10S
 - Dambo - H80-HJ098-A15S
 - Dambo - HJ018-BZL4T35K+
-- Dambo - HJ-TCJ05C-28
 - Dambo - LDS-DCL600-HJ098-15PS
 - Dambo - LDS-DT300-HJ208-A6PS
 - Dambo - LDS-DTDW-HJ098-A15PS
@@ -114,9 +113,6 @@ Applicants can apply for the EEG (Base) and EEG (Advanced) via this email <a tit
 - FBK - FBKCZC-TIC3.5
 - FBK - FBKCZC-TIC5
 - FBK - FBKCZC-TIW
-- FBK - FBKMDC-MLD-TGS30-S
-- FBK - FBKMDC-SD-G30D1-STG-S
-- FBK - FBKMDC-SD-G30DA-STG-S
 - Garland  - Instinct Hob 3.5
 - Garland  - Instinct Hob 5
 - Hatco  - IRNG-PB1-36

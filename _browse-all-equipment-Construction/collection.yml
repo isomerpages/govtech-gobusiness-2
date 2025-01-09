@@ -1,0 +1,10 @@
+collections:
+  browse-all-equipment-Construction:
+    output: true
+    order:
+      - back-to-all-eeg-equipment.md
+      - Battery-Energy-Storage-System.md
+      - Electric-Crawler-Crane.md
+      - Electric-Excavator.md
+      - Electric-Wheel-Loader.md
+      - Hydraulic-Excavator.md

@@ -97,15 +97,20 @@ Alternatively, you may choose to make off-line payment at HQ SCDF's counter via 
 <li>
 <strong>Who can I contact for further details?</strong><br>
 For further clarification, you may contact Licensing Officers at the following contact nos. :<br>
-Email: <a href="mailto:MD_RAZIF_ABD_RAHMAN@SCDF.GOV.SG">MD_RAZIF_ABD_RAHMAN@SCDF.GOV.SG</a><br>
-Name: Mr Mohd Razif<br>
-Designation: Senior P&FM Transport Licensing Specialist<br>
-Contact: <a href="tel:+6568481474">68481474</a><br><br>
 
-Email: <a href="mailto:CLAIRE_YEO@SCDF.GOV.SG">CLAIRE_YEO@SCDF.GOV.SG</a><br>
-Name: Ms Claire Yeo<br>
-Designation: Senior P&FM Transport Licensing Specialist<br>
-Contact: <a href="tel:+6568481474">68481474</a><br><br>
+Email: <a href="mailto:Md_Razif_Abd_Rahman@scdf.gov.sg">Md_Razif_Abd_Rahman@scdf.gov.sg</a><br>
+Name: Mohammad Razif Bin Abdul Rahman<br>
+Designation: Senior Transport Licensing Specialist<br>
+Contact: <a href="tel:+6568481474">6848 1474</a><br><br>
+
+Email: <a href="mailto:Claire_Yeo@scdf.gov.sg">Claire_Yeo@scdf.gov.sg</a><br>
+Name: Claire Yeo<br>
+Designation: Transport Licensing Specialist<br>
+Contact: <a href="tel:+6568481474">6848 1474</a><br><br>
+
+Central Tel line: <a href=""tel:+6568481472"">68481472</a><br>
+Fax: 68481494
+
 </li>
 
 <li>

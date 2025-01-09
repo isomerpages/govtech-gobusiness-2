@@ -1,0 +1,8 @@
+collections:
+  browse-all-licences-Customs:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Chemical-Weapons-Convention--CWC--Licence-Application-Cover-Form---Update-of-Licensee-Contact-Information.md
+      - Chemical-Weapons-Convention--CWC--Licence-Application-Form--Amendment-.md
+      - Chemical-Weapons-Convention--CWC--Licence-Application-Form--New-Renewal-.md

@@ -5,8 +5,9 @@ const custom_notifications = [
   //1 system downtime only
   //"<b>[Attention: System Maintenance]</b> Application, amendment, renewal & cancellation of Infocomm Media Development Authority (IMDA) licences will be unavailable due to maintenance on 07 Nov from 3:30pm to 11:59pm. Please view the <u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>upcoming maintenance schedule</a></u> for details. We apologise for the inconvenience caused."
   //multiple services
-  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details.",
-  "<b>[Attention: Important Notice]</b> Please be informed that the GoBusiness Helpdesk will operate from <B><u>8:00 AM to 2:00 PM</u></B> on the following festival eves:<br>Tuesday, 24 December 2024 (Christmas Eve)<br>Tuesday, 31 December 2024 (New Year's Eve)<br>Tuesday, 28 January 2025 (Chinese New Year Eve)<br>Normal operating hours will resume on the working day following each festive eve and its respective public holiday.<br>For enquiries during this period, please email Askgobiz@crimsonlogic.com.sg. We apologise for any inconvenience and thank you for your understanding."
+  "<b>[Attention: System Maintenance]</b> Certain GoBusiness services will be unavailable due to upcoming maintenance. Please check our <B><u><a href='https://go.gov.sg/gobiz-maintenance-notice' target='_blank' rel='noopener'>maintenance schedule</a></u></B> for details."
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard will be unavailable due to maintenance on 06 Jan, 6:30pm to 8:30pm."
+  //"<b>[Attention: Important Notice]</b> Please be informed that the GoBusiness Helpdesk will operate from <B><u>8:00 AM to 2:00 PM</u></B> on the following festival eves:<br>Tuesday, 28 January 2025 (Chinese New Year Eve)<br>Normal operating hours will resume on the working day following each festive eve and its respective public holiday.<br>For enquiries during this period, please email Askgobiz@crimsonlogic.com.sg. We apologise for any inconvenience and thank you for your understanding."
 ]; 
 
 

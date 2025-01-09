@@ -1,0 +1,8 @@
+collections:
+  browse-all-equipment-Maritime:
+    output: true
+    order:
+      - back-to-all-eeg-equipment.md
+      - Air-Conditioner.md
+      - Electric-Forklift.md
+      - LED-Lighting.md

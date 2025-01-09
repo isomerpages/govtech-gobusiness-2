@@ -23,6 +23,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 
 ### Pre-Approved Equipment Brands and Models
 
+- AGRANERGY PTE. LTD. - A16-C39BT8SEB4-18T65L
+- AGRANERGY PTE. LTD. - A16-C39T8SEB4-18T65L
 - astee - LEDT8-24W4
 - Beacon LED Lighting - A60E27N6-D
 - Beacon LED Lighting - A60E27N6-W
@@ -145,6 +147,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - IKEA - LED2311G3
 - IKEA - LED2312G5
 - IKEA - LED2329G3
+- IKEA - LED2335G3
+- IKEA - LED2337G7
 - iLumston - WN-CL06-30W
 - iLumston - WN-CL06-30W-WW
 - iLumston - WN-CL06-45W-CW
@@ -225,6 +229,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Megaman - YTT80Z1-HPB-20W-E27-3000K
 - Megaman - YTT80Z1-HPB-20W-E27-4000K
 - Megaman - YTT80Z1-HPB-20W-E27-6500K
+- Megaman - YTT8A1-12W-G13-S
 - Megaman - YTT8A3-16W-S-4000K
 - Megaman - YTT8A3-16W-S-6500K
 - Megaman - YTT8A3-8W-S

@@ -1,6 +1,19 @@
 - accordion:
   letter: a
   data:
+    - title: Construction
+      content: |
+        - <a href='/browse-all-equipment-Construction/Battery-Energy-Storage-System'>Battery Energy Storage System</a>
+        - <a href='/browse-all-equipment-Construction/Electric-Crawler-Crane'>Electric Crawler Crane</a>
+        - <a href='/browse-all-equipment-Construction/Electric-Excavator'>Electric Excavator</a>
+        - <a href='/browse-all-equipment-Construction/Electric-Wheel-Loader'>Electric Wheel Loader</a>
+        - <a href='/browse-all-equipment-Construction/Hydraulic-Excavator'>Hydraulic Excavator</a>
+
+    - title: Data Centre Sector
+      content: |
+        - <a href='/browse-all-equipment-Data-Centre/Data-Centre-Storage'>Data Centre Storage</a>
+        - <a href='/browse-all-equipment-Data-Centre/Enterprise-Servers'>Enterprise Servers</a>
+
     - title: Food Services
       content: |
         - <a href='/browse-all-equipment-Food-Services/Air-Conditioner'>Air-Conditioner</a>
@@ -22,7 +35,16 @@
         - <a href='/browse-all-equipment-Manufacturing/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Manufacturing/Water-Heater'>Water Heater</a>
 
-        
+    - title: Maritime
+      content: |
+        <u>Habourcraft</u>
+        - <a href='/browse-all-equipment-Maritime/Air-Conditioner'>Air-Conditioner*</a>
+        - <a href='/browse-all-equipment-Maritime/LED-Lighting'>LED Lighting*</a>
+        <p>* installed onboard the harbourcraft</p>
+
+        <u>Port</u>
+        - <a href='/browse-all-equipment-Maritime/Electric-Forklift'>Electric Forklift</a>
+
     - title: Retail
       content: |
         - <a href='/browse-all-equipment-Retail/Air-Conditioner'>Air-Conditioner</a>
@@ -31,3 +53,5 @@
         - <a href='/browse-all-equipment-Retail/LED-Lighting'>LED Lighting</a>
         - <a href='/browse-all-equipment-Retail/Refrigerator'>Refrigerator</a>
         - <a href='/browse-all-equipment-Retail/Water-Heater'>Water Heater</a>
+
+

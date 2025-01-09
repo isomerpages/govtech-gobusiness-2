@@ -17,10 +17,11 @@
     - title: What is the eligibility criteria for EEG (Base)?<sup>2</sup>
       content: |
         A company that meets all the following criteria can apply for the EEG (Base):
-        - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail sector as defined below;
+        - Business entity registered and operating in Singapore in the Manufacturing, Food Services or Retail and Construction sector as defined below;
           - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
           - <b>Food Services</b> companies with valid Singapore Food Agency (SFA) licences and classified under SSICs 56 or 68104
           - <b>Retail</b> companies that are classified under SSIC 47
+          - <b>Construction</b> companies that are classified under SSIC 41 - 43
         <br><br>
         - Has a minimum of 30% local shareholding,
         - Employ at least one local employee at the firm-level
@@ -56,27 +57,17 @@
 
     - title: How to apply for the EEG (Base)?
       content: |
-        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
-        Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-        To apply for the EEG (Base), manufacturing companies will have to:
-        i. Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
-        ii. Obtain quotations from the vendor.<br>
-        iii. Submit application via <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> 
-
-        <u>For Food Services and Retail Companies</u><br>
         Applications will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} which is a one-stop portal for business to apply for government grants.<br>
         To apply for the EEG (Base), companies will have to:<br>
-        i. Visit GoBusiness to access the list of supported equipment brands and models. <br>
-        ii. Obtain quotations from the vendor.  <br>
-        iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.
+        i. Visit GoBusiness to access the list of supported equipment brands and models.<br>
+        ii. Obtain quotations from the vendor.<br>
+        iii. Submit an application on the BGP. Companies will need to have a CorpPass account to transact on the BGP.<br>
 
         Companies should refer to their primary SSIC code to determine the appropriate sector and agency to apply to.
 
     - title: How to claim for the EEG (Base)? 
       content: |
-        <u>For Manufacturing (including Food Manufacturing) Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
-        To claim for the EEG (Base), manufacturing companies will have to ensure:
+        Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}. To claim for the EEG (Base), companies will have to ensure:<br>
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
@@ -85,30 +76,14 @@
           - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
           - Delivery order
           - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket, industrial facility).
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
 
         Approved claims will be credited directly through GIRO bank account provided by the business entity.  
 
-        <u>For Food Services and Retail Companies</u><br>
-        Claims will be submitted through the [Business Grants Portal (BGP)](http://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
-        To claim for the EEG (Base), companies will have to ensure:
-        - Claimant has purchased the equipment as approved in the application; and
-        - Claimant has deployed and installed the equipment; and
-        - Claimant has paid for the equipment in full; and
-        - Claimant has submitted all claim documentation including:
-          - Invoice
-          - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
-          - Delivery order
-          - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket). 
-            - Serial number of equipment (if applicable)
-
-        Disbursements can only be made after the claims have been approved.
-
-        Approved claims will be credited directly to the registered PayNow Corporate account or through GIRO bank account provided by the business entity.  
+        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
 
     - title: Can I deploy equipment to a residential address?
       content: |
@@ -135,6 +110,8 @@
         For Food Services and Retail companies, you may wish to visit [Enterprise Singapore's webpage](https://www.enterprisesg.gov.sg/EEG){:target="_blank"}{:rel="noopener"} or [contact Enterprise Singapore](https://go.gov.sg/askenterprisesg){:target="_blank"}{:rel="noopener"} for more information.
 
         For Manufacturing companies, you may wish to visit <a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/energy-efficiency-grant" target="_blank" rel="noopener">NEA's webpage</a> or contact <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> for more information.
+
+        For Construction companies, you may wish to contact <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> for more information.
 
     - title: How can I enquire for CorpPass assistance?
       content: |
@@ -163,16 +140,17 @@
 
     - title: What sectors does the EEG (Advanced) cover?
       content: |
-        From 1 April 2024, companies in the Manufacturing sector<sup>3</sup> can apply for the EEG (Advanced). We will further expand EEG (Advanced) to cover the maritime, construction and data centres sectors. More information will be available in due course.
+        From 1 April 2024, companies in the Manufacturing sector<sup>3</sup> can apply for the EEG (Advanced). We will further expand EEG (Advanced) to cover the maritime and construction sectors.
 
         <sup>3</sup> Based on company's ACRA registered SSIC code.
 
     - title: What is the eligibility criteria for EEG (Advanced)?
       content: |
-        From 1 April 2024, A company that meets all the following criteria can apply for the EEG (Advanced):
+        From 30 December 2024, A company that meets all the following criteria can apply for the EEG (Advanced):
         
         - Business entity registered and operating in Singapore in the Manufacturing sector as defined below
           - <b>Manufacturing</b> companies that are classified under SSIC 10 to 32 (including Food Manufacturing)
+          - <b>Construction</b> companies that are classified under SSIC 41 - 43
         <br><br>
         - Has a minimum of 30% local shareholding;
         - Employ at least one local employee at the firm-level;
@@ -222,6 +200,9 @@
       content: |
         Please refer to the <a href='/images/eeg/EEG Advanced Third-party assessment report (July 2024).docx' target="_blank" rel="noopener">third-party assessment form</a> that the whitelisted third-party qualified assessor would use to document the assessment and endorse the projected energy savings for the project. The signed form shall be submitted along with the application for the grant.
 
+        <u>For Construction Companies</u><br>
+        Please email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to request for the third-party assessment documents.
+
     - title: Where can I find the full list of whitelisted third-party qualified assessors for my EEG (Advanced) project?
       content: |
         The list of whitelisted third-party qualified assessors for manufacturing sector is as follows. Only applications endorsed by whitelisted third-party qualified assessor would be processed.
@@ -251,8 +232,10 @@
           <td>Singapore Polytechnic (SP) - Centre for Environmental Sustainability and Energy Efficiency (ESEE)</td>
           <td>Website:<br><a href="https://www.sp.edu.sg/industry/esee" target="_blank" rel="noopener">Centre ESEE - Industry and Partnerships | SP</a><br>Contact details: <br><a href="mailto:Lam_Kok_Seng@sp.edu.sg">Lam_Kok_Seng@sp.edu.sg</a></td>
         </tr>
-
         </table>
+
+        <u>For Construction Companies</u><br>
+        Please email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a> to request for the latest list of whitelisted third-party qualified assessors for construction sector.
 
     - title: What is the duration of the EEG (Advanced)?
       content: |
@@ -268,15 +251,18 @@
         Applications will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>. Companies will have to:<br>
         i.	Email <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> to verify company's eligibility and request for application documents.<br>
         ii.	Obtain quotations from the vendor.<br>
-        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
+        iii.	Submit application and accompanying documents to <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a><br>
 
-        More information on how companies for other sectors can apply will be provided once the other sectors have been onboarded onto the EEG (Advanced).
+        <u>For Construction Companies</u><br>
+        Applications will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>.<br>
+        Companies will have to:<br>
+        i. Email <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>to verify company's eligibility and request for application documents.<br>
+        ii. Obtain quotations from the vendor.<br>
+        iii. Submit application and accompanying documents to <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a>
 
     - title: How to claim for the EEG (Advanced)? 
       content: |
-        <u>For Manufacturing Companies</u><br>
-        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a>
-        To claim for the EEG (Advanced), companies will have to ensure:
+        Claims will be submitted through <a title="" href="mailto:NEA_EEG@nea.gov.sg" target="_blank" rel="noopener">NEA_EEG@nea.gov.sg</a> To claim for the EEG (Advanced), companies will have to ensure:<br>
         - Claimant has purchased the equipment as approved in the application; and
         - Claimant has deployed and installed the equipment; and
         - Claimant has paid for the equipment in full; and
@@ -285,14 +271,17 @@
           - Payment supporting documents. The documents should indicate important information required such as grant applicant name, payee name, payment date, payment amount and approval status of transaction. Acceptable documents are bank statement, cheque and bank transfer image.
           - Delivery order
           - Pictures
-            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used.
+            - Equipment being installed and used on site. Pictures should be clear to show the equipment and location where it is being used (e.g. restaurant, supermarket, industrial facility)..
             - Serial number of equipment (if applicable)
 
         Disbursements can only be made after the claims have been approved.
 
         Approved claims will be credited directly through GIRO bank account provided by the business entity.
 
-        More information on how companies for other sectors can claim will be provided once the other sectors have been onboarded onto the EEG (Advanced).
+        For manufacturing companies, approved claims will be credited through GIRO bank account provided by the business entity.
+
+        <u>For Construction Companies</u><br>
+        Claims will be submitted through <a title="" href="mailto:BCA_EEG_admin@bca.gov.sg" target="_blank" rel="noopener">BCA_EEG_admin@bca.gov.sg</a><br>
 
     - title: Can I deploy equipment to a residential address?
       content: |

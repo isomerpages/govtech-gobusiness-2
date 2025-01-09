@@ -6,7 +6,7 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 ## Apply for Asatizah Recognition Scheme
 
-Majlis Ugama Islam Singapura (MUIS)
+Majlis Ugama Islam Singapura (Muis)
 
 {% include spcp-text.html type="sp" %}
 

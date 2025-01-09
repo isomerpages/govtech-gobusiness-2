@@ -47,7 +47,7 @@ More details in the table below:
 
 ### EEG eligibility
 
-{% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="a" %}
 
 **Note:**
 
@@ -63,7 +63,23 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 {% include button.html text="View All Equipment" src="/energy-efficiency-grant/all-eeg-equipment/" target="_self" %}
 
-----
+<a name='eeg-construction'></a>
+
+### EEG Construction Sector eligibility
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="d" %}
+
+<a name='eeg-data-centre'></a>
+
+### EEG Data Centre Sector eligibility
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="b" %}
+
+<a name='eeg-maritime'></a>
+
+### EEG Maritime Sector eligibility
+
+{% include letter-accordion.html accordions=site.data.acc039b-eeg-overview letter="c" %}
 
 <a name='eeg-faq'></a>
 
@@ -71,6 +87,9 @@ Companies will have up to 1 year from the time an application is approved to pur
 
 Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
 
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
 <script src="/jquery/resize-tables.js"></script>
 
 

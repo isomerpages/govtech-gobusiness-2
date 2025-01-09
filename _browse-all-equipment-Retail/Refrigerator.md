@@ -70,6 +70,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Berjaya - 1DDF-IV-WB
 - Berjaya - 2DC4-IV-Z
 - Berjaya - 2DC5-IV-Z
+- Berjaya - 2DC6-IV-Z
 - Berjaya - 2DDC-IV-BB
 - Berjaya - 2DDC-IV-SB
 - Berjaya - 2DDC-IV-WB
@@ -95,6 +96,14 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Berjaya - 6DUF-IV-Z
 - Berjaya - B3DC7-IV-BD-7
 - Berjaya - B3DC7-IV-SM7
+- Berjaya - RS09C-IV-2T
+- Berjaya - RS09C-IV-3T
+- Berjaya - RS12C-IV-2T
+- Berjaya - RS12C-IV-3T
+- Berjaya - RS15C-IV-2T
+- Berjaya - RS15C-IV-3T
+- Berjaya - RS18C-IV-2T
+- Berjaya - RS18C-IV-3T
 - Berjaya - U2F2C-IV-Z
 - Bosch  - KFN96PX91I
 - Bosch  - KGN36XI46
@@ -343,6 +352,8 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - DANENG - DN-IAWRD-15L
 - DANENG - DN-IAWRD-18
 - DANENG - DN-IAWRD-18L
+- DANENG - DN-IAWRF15
+- DANENG - DN-IAWRF18
 - De Dietrich - DFA179NXA
 - DN-IDS1200-C - DANENG - DN-IDS1200-C
 - DN-IDS1200-R - DANENG - DN-IDS1200-R
@@ -579,6 +590,7 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi  - R-WB735P5MS
 - Hitachi  - R-XG450KS
 - Hitachi  - R-XG480KS
+- Hitachi - HR4N7522DS
 - Hitachi - HRTN6379S
 - Hitachi - HRTN6408S
 - Hitachi - HRTN6443S
@@ -604,7 +616,9 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Hitachi - R-WXC620KS
 - Hitachi - R-WXC670KS
 - Hitachi - R-WXC740KS
+- Hitachi - R-WXC740WS
 - Hitachi - R-ZXC740KS
+- Hitachi - R-ZXC740WS
 - Hold - LRRF12i
 - Hold - LRRF9i
 - Hoshiaki - HRF-120AFT
@@ -826,8 +840,10 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Liebherr  - SUIK 1510
 - Liebherr  - SUIKo1550
 - Liebherr - CBNsdh 7653
+- mayer - MMFF480BI
 - Mayer - MMFT350MG
 - Mayer - MMFT400MG
+- mayer - MMFT450MG
 - Midea  - CE-BCD640WE-JT
 - Midea  - MDRB470MGD28
 - Midea  - MDRD86FGD01-SG
@@ -1164,6 +1180,11 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Panasonic  - SUR-K2171SB
 - Panasonic  - SUR-K2171SB-R
 - Panasonic - NR-BW530H
+- Panasonic - NR-TC221BUSS
+- Panasonic - NR-TC261BUSS
+- Panasonic - NR-TC311BUSS
+- Panasonic - NR-TC361BUSS
+- Panasonic - NR-XC541CUHS
 - Panasonic - SRF-K781B
 - Panasonic - SRR-K781B
 - Panasonic - SUF-K1571SB
@@ -1195,8 +1216,15 @@ Applicants can apply for the EEG (Base) through the [Business Grants Portal (BGP
 - Penguin - P-180MC
 - Penguin - P-180SCCC
 - Penguin - P-180SRCC
+- Penguin - P-1810UF
 - Penguin - P-1900SMCF
 - Penguin - P-1900SMFF
+- Penguin - P-1DUC
+- Penguin - P-1DUF
+- Penguin - P-2DUC
+- Penguin - P-2DUF
+- Penguin - P-3DUC
+- Penguin - P-3DUF
 - Penguin - P-620UF
 - Penguin - P-70CCC
 - Penguin - P-70RCC
@@ -1293,6 +1321,8 @@ RT62K7057BS
 - Samsung  - RZ32T7443AP
 - Samsung  - RZ32T7445AP
 - Samsung - RB34C7B5CAP
+- Samsung - RB43DG6005B1
+- Samsung - RB43DG6005S9
 - Samsung - RF49C5103B1
 - Samsung - RF49C5103S9
 - Samsung - RF59C7004B1
@@ -1359,7 +1389,9 @@ RT62K7057BS
 - Singmah - LG-1000M2WP
 - Singmah - LG-1200M3WP
 - Singmah - LG-1400M3WP
+- Singmah - LG-1480M3WP
 - Singmah - LG-1800M4WP
+- Singmah - LG-380WP
 - Singmah - LG-882M2W
 - Singmah - LG-882M2WP
 - Singmah - LG-960M2WP
@@ -1697,6 +1729,8 @@ RT62K7057BS
 - Toshiba - GR-RF677WI-PMX(06)
 - Toshiba - GR-RM593WE-PGX(B3)
 - Toshiba - GR-RS780WI-PMX(06)
+- Toshiba - GR-RT234WE-PMX
+- Toshiba - GR-RT303WE-PMX
 - Toshiba - GR-RT735WE-PGX(GG)
 - Toshiba - GR-RT835WE-PGX(B5)
 - Toshiba - GR-RT835WE-PGX(PGB)
@@ -1708,6 +1742,8 @@ RT62K7057BS
 - Ty Brand  - RTGD-2DC-IVTH-W
 - Ty Brand  - RTGD-3DC-IVTH-B
 - Ty Brand  - RTGD-3DC-IVTH-W
+- Ty Brand - UNGD-2DF-INV
+- Ty Brand - UNGD-3DF-INV
 - UNICOOL  - LK-1000CC-IV
 - UNICOOL  - LKC2FL4-IV
 - UNICOOL  - LKC2FL5-IV
@@ -1727,6 +1763,8 @@ RT62K7057BS
 - V-ZUG - Jumbo T
 - Whirlpool  - TM500 VCC UI
 - Whirlpool  - TM500 VCC UI BL
+- Whirlpool - 5WQ24NIQABK
+- Whirlpool - 5WQ24NIQAS
 - YUDA  - YD-0217CS-IVTH
 - YUDA  - YD-0217FS-IVTH
 - YUDA  - YD-021CS-IVTH

@@ -6,7 +6,7 @@ third_nav_title: Majlis Ugama Islam Singapura (MUIS)
 
 ## Apply for Islamic Education Centres and Providers Registration
 
-Majlis Ugama Islam Singapura (MUIS)
+Majlis Ugama Islam Singapura (Muis)
 
 {% include licence-apply-button.html %}
 <a class="btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a>

@@ -23,7 +23,7 @@
         - <a href='/browse-all-solutions-Advanced-Manufacturing/General-Advanced-Manufacturing-Equipment'>General Advanced Manufacturing Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    - title: Built Environment
+    - title: Building & Construction 
       content: |
         
         **For more information, please refer to [BCA's PSG website](https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/productivity-solutions-grant){:target="_blank"}{:rel="noopener"}.**
@@ -57,7 +57,18 @@
         - <a href='/browse-all-solutions-Engineering-Services/General-Engineering-Services-Equipment'>General Engineering Services Equipment</a>
 
         View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
-    
+    - title: Environmental Services
+      content: |
+        
+        **IT/Digital Solution**
+        - To be updated when ready
+
+        **Equipment**
+        - <a href='/browse-all-solutions-Environmental-Services/Pest-Management'>Pest Management</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Cleaning'>Cleaning</a>
+        - <a href='/browse-all-solutions-Environmental-Services/Waste-Management'>Waste Management</a>
+
+        View the <a href='#all-sectors'>"Solutions for All Sectors"</a> for more solutions
     - title: Estate Agency
       content: |
         

@@ -1,0 +1,8 @@
+collections:
+  browse-all-solutions-Environmental-Services:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Pest-Management.md
+      - Cleaning.md
+      - Waste-Management.md
