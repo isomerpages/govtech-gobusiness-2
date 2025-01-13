@@ -906,12 +906,18 @@
         <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/ser" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Simplified-Equipment-Registration-(SER)">View Licence Details</a>
 
         -----
-        **Special Purpose Station**
+        **Special Purpose Station Licence**
 
-        For operating and possession of radio communication equipment which does not fall under any licence category.
+        You should apply for a Special Purpose Station Licence if you intend to operate and possess a radio communication equipment that meets the following criteria:
+        - It is not categorised within any other station licence in the Telecommunications (Radio-communication) Regulations
+        - It is established exclusively for its purpose
+        
+        Examples of special purpose stations include:
+        - Personal Locator Beacon (PLB)
+        - Radio-frequency identification (RFID) robots
+        - Technical Surveillance Counter-Measures (TSCM) equipment
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10016" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Special-Purpose-Station" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Special-Purpose-Station">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/specialpurposestation" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Special-Purpose-Station-Licence">View Licence Details</a>
 
         -----
         **Subscription International Television Service Licence**
@@ -925,10 +931,9 @@
         -----
         **Technical Trial (with use of Frequency)**
 
-        For establishing and conduct a proof of concept using radio frequency on a short term basis.
+        For establishing and conducting a proof of concept using radio frequency on a temporary basis.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Technical-Trial-(with-use-of-Frequency)" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Technical-Trial-(with-use-of-Frequency)">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/technicaltrialwithuseoffrequency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Technical-Trial-(with-use-of-Frequency)">View Licence Details</a>
 
         -----
         **Technical Trial (without Frequency)**
@@ -991,8 +996,7 @@
 
         For operation of radio frequency on a temporary basis.
 
-        <a class="primary-btn" id = "desktopNotice" href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10073" target="_blank" rel="noopener">Apply on GoBusiness Licensing</a><a id="desktopNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Temporary-Use-of-Radio-Frequency" style="margin-left: 1em;">View Licence Details</a>
-        <div id = "mobileNotice" style="background: #F9FAFA; border-radius: 5px; width: auto; height: auto; padding: 24px 24px; font-family: hknova-bold; font-size: 18px; color: #313840;"><img src="/images/laptop.svg" alt="" style="height: 60px; width: 60px; margin-left: 0px;"><span style="font-weight: bold; font-family: hknova-bold;">Please use desktop / laptop to apply for this licence.</span></div><a id="mobileNotice" href="/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Temporary-Use-of-Radio-Frequency">View Licence Details</a>
+        <a class="primary-btn" href="https://dashboard.gobusiness.gov.sg/task-details/temporaryuseofradiofrequency" target="_blank" rel="noopener">Apply on GoBusiness Dashboard</a>&emsp;<a href = "/browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Temporary-Use-of-Radio-Frequency">View Licence Details</a>
 
         -----
         **TV Receive-Only System Licence**
