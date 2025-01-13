@@ -218,6 +218,13 @@
   url-new-tab: true
   protocol: https
 
+- title: SME Pro-Enterprise Office (PEO)
+  description: For regulatory feedback and inquiry
+  tel: +65 
+  url: PEO website
+  url-new-tab: true
+  protocol: https
+
 - title: Tripartite Alliance for Fair & Progressive Employment (TAFEP)
   description: Employment practices, tripartite guidelines and standards
   url: www.tal.sg/tafep/contact-us
