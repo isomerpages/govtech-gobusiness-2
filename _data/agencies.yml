@@ -190,8 +190,9 @@
 
 - title: Singapore Civil Defence Force (SCDF)
   description: Application for Temporary Change of Use Permit
-  tel: +65 6848 1483, +65 6848 1481
-  email: Veerasingam_MUTHUSAMY@scdf.gov.sg, TEO_Mei_Tin@scdf.gov.sg
+  url: www.scdf.gov.sg/home/feedback
+  url-new-tab: true
+  protocol: https
 
 - title: Singapore Food Agency (SFA)
   description: Contact Centre<br>(including Rice Licence)
