@@ -1,3 +1,10 @@
+- title: SME Pro-Enterprise Office (PEO)
+  description: Feedback on Whole-of-Government rules and regulations
+  tel: +65 
+  url: PEO_website
+  url-new-tab: true
+  protocol: https
+
 - title: Animal & Veterinary Service (AVS)
   description: Animal & Veterinary Service, a cluster of National Parks Board
   url: www.avs.gov.sg/feedback
