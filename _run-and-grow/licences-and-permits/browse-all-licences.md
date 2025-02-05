@@ -95,9 +95,9 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Computer Online Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10068)
 - [Film (Distribution/Exhibition) Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15)
 - [Nationwide TV Service Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064)
-- [Newspaper Permit](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13)
+- [Newspaper Permit](https://dashboard.gobusiness.gov.sg/task-details/newspaperpermit)
 - [Niche Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/nichetv)
-- [Printing Press Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=14)
+- [Printing Press Licence](https://dashboard.gobusiness.gov.sg/task-details/printingpress)
 - [Registration Form C for Class Licensable Broadcasting Services](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066)
 - [Subscription International Television Service Licence](https://dashboard.gobusiness.gov.sg/task-details/subscriptioninternationaltv)
 
