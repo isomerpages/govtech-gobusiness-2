@@ -338,7 +338,7 @@ Select an industry to see a list of relevant licences here. You can also browse 
 - [Rubber Licence (Packer)](https://dashboard.gobusiness.gov.sg/task-details/rubberpackerlicence)
 - [Rubber Licence (Shipper)](https://dashboard.gobusiness.gov.sg/task-details/rubbershipperlicence)
 - [Secondhand Goods and Dealers Licence](https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence)
-- [Tobacco Retail Licence](https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
+- [Tobacco Retail Licence](https://dashboard.gobusiness.gov.sg/task-details/tobacco-retail-licence)
 - [Ticket Payment Service Licence (TPSL)](https://dashboard.gobusiness.gov.sg/task-details/tpsl)
 
 <a name="postal-services"></a>
