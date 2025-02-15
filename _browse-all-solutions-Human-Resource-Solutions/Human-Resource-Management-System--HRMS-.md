@@ -100,10 +100,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>SWINGVY PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/51322500E-TIME-ACCESS-HRMS-v-V20-G' target='_blank'>TIME ACCESS HRMS Version V2.0</a><br></td>
-<td>TIME ACCESS INTERNATIONAL</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/199804415D-TIMES-SOFTWARE-HRMS-G' target='_blank'>TIMES SOFTWARE HRMS</a><br></td>
 <td>Times Software Pte Ltd</td>
 </tr>

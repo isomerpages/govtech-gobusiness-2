@@ -26,14 +26,21 @@ Guidesify's GenAI SEO Writer is an AI-powered tool that helps create SEO-optimiz
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>1 user</td>
 <td style='padding: 10px;'>$2,400.00</td>
 <td style='padding: 10px;'>$2,400.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202012036D_20240279_26112024_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202012036D_20240279_20022025_Desensitised_Annex3_Part1.pdf' target='_blank'>View Details</a></td>
 </tr>
 <tr>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 2</td>
 <td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>3 users</td>
 <td style='padding: 10px;'>$6,000.00</td>
 <td style='padding: 10px;'>$5,800.00</td>
-<td style='padding: 10px;'><a href='/images/psg/202012036D_20240279_26112024_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+<td style='padding: 10px;'><a href='/images/psg/202012036D_20240279_20022025_Desensitised_Annex3_Part2.pdf' target='_blank'>View Details</a></td>
+</tr>
+<tr>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>Option 3</td>
+<td style='padding: 10px; background-color: #037E8A; color: #FFFFFF;'>7 users</td>
+<td style='padding: 10px;'>$10,800.00</td>
+<td style='padding: 10px;'>$10,600.00</td>
+<td style='padding: 10px;'><a href='/images/psg/202012036D_20240279_20022025_Desensitised_Annex3_Part3.pdf' target='_blank'>View Details</a></td>
 </tr>
 </table>
 

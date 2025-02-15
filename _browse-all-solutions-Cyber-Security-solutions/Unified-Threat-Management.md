@@ -49,10 +49,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>Contfinity Pte. Ltd.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/200312912E-Cybr-Scurty-SLN-Unfd-Thrt-MGT-G' target='_blank'>Cyber Security Solution - Unified Threat Management</a><br></td>
-<td>DATA CONNECT TECHNOLOGIES PTE. LTD.</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200715324R-Fortgt-Frwll-for-IT-Scurty-or-VPN-v-1-G' target='_blank'>Fortigate Firewall for IT Security or VPN Version 1</a><br></td>
 <td>Computer Analysts and Recovery Experts Pte Ltd</td>
 </tr>

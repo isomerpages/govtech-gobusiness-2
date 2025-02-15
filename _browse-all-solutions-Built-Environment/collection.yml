@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - back-to-all-psg-solutions.md
-      - Integrated-and-Smart-Worksite-Monitoring-and-Inspection.md
+      - Smart-Inspection-and-Management---Integrated-and-Smart-Worksite-Monitoring-and-Inspection.md
       - 3D-Modelling--Immersive-Visualisation-Analysis.md
-      - e-Permit-to-work--e-PTW-.md
+      - Smart-Inspection-and-Management---e-PTW.md
       - Quantity-Surveying-and-Valuation.md
       - FM-Workflow-Automation.md
-      - Smart-Inspection-and-Management---e-Permit-to-work--e-PTW-.md

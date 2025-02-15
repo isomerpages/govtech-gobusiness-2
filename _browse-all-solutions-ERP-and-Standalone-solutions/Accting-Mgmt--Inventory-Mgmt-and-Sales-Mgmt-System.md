@@ -64,10 +64,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>METRO GROUP PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/201608167D-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
-<td>Illum (9) Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/201000122E-Mcrosoft-Dynmcs-365-Busnss-Cntrl-G' target='_blank'>Microsoft Dynamics 365 Business Central</a><br></td>
 <td>AFON Systems Pte Ltd</td>
 </tr>
@@ -96,12 +92,20 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <td>OCi System Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201915635R-Odoo-Entrprs-v-18-G' target='_blank'>Odoo Entreprise Version 18</a><br></td>
+<td>PORT CITIES SINGAPORE PTE. LTD.</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>
 <td>Seg IT Services Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/200507412D-Sg-300-G' target='_blank'>Sage 300</a><br></td>
 <td>Flex-Solver Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/201009691D-Sg-300Cloud-G' target='_blank'>Sage 300Cloud</a><br></td>
+<td>ACSOLV CONSULT PTE. LTD.</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/198000012M-SAP-BUSINESS-ONE-G' target='_blank'>SAP BUSINESS ONE</a><br></td>

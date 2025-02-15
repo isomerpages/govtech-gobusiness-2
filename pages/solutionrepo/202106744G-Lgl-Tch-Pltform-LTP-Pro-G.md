@@ -64,7 +64,7 @@ The LTP is a cloud-based matter management platform powered by Lupl, MinLaw's te
 
 ## Vendor Information
 
- Company Name: C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline: 658001207076 <br>Contact Email: singapore@lupl.com <br>
+ Company Name: C-Cubed Innovations (Singapore) Pte. Ltd.<br>Web URL: sg.lupl.com <br>Contact Hotline:+6569909627<br>Contact Email: singapore@lupl.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 
