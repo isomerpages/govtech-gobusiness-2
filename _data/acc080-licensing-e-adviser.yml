@@ -15,7 +15,12 @@
 
         Can't find a proposal box for your event type? <a href='https://go.gov.sg/x2ds1b' target='_blank' rel='noopener'>Request for a new proposal box</a> by registering your interest.
 
-
+    - title: Import, Export and Transhipment
+      is_new: true
+      content: |
+        - [HS/CA Product Code Checker](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
+          <br>This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).<br><br>
+    
     - title: Premises Use Check
       content: |
         - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}

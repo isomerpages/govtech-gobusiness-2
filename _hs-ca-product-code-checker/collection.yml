@@ -1,0 +1,6 @@
+collections:
+  eservices-guides:
+    output: true
+    order:
+      - back-to-e-services-overview.md
+      - guides-for-businesses.md

@@ -45,4 +45,13 @@ collections:
       - taxes-gst-customs/taxes-gst.md
       - taxes-gst-customs/annual-returns.md
       - taxes-gst-customs/imports-exports.md
+      - import-export-transhipment/imports-exports.md
+      - import-export-transhipment/overview.md
+      - import-export-transhipment/activate-customs-account.md
+      - import-export-transhipment/determine-hs-code-goods.md
+      - import-export-transhipment/apply-for-relevant-licences.md
+      - import-export-transhipment/apply-to-be-declaring-agent.md
+      - import-export-transhipment/appy-interbank-giro.md
+      - import-export-transhipment/apply-customs-permit.md
+      - import-export-transhipment/retain-trade-documents.md
       - gebiz-alerts.md

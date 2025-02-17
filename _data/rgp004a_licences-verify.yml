@@ -1,5 +1,5 @@
 - title: Verify an entity's licence
-  is_new: false
+  is_new: true
   description: Find out if a company or person has a licence by doing a search. 
   url: https://dashboard.gobusiness.gov.sg/verify-licence?src=lic-about
   url-new-tab: true

@@ -1,7 +1,7 @@
 ---
-title: Import, Export, and Transhipment
-permalink: /run-and-grow/imports-and-exports/
-third_nav_title: Taxes, GST and Customs
+title: Import, Export, and Transhipment (OLD)
+permalink: /run-and-grow/import-export-transhipment-old/
+third_nav_title: Import, Export, and Transhipment
 ---
 
 ## Getting Started

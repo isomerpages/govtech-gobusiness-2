@@ -18,3 +18,11 @@
   url: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs
   url-new-tab: true
   text: Log In to Guided Journey
+
+- banner: <img style="width:410px; height:150px;" src="/images/grow/foodservices.jpg">
+  is_new: true
+  title: For import, export and transhipment
+  description: This e-service allows you to find out the Harmonised System (HS) code for the type of product you are importing, exporting or transhipping. If your product is controlled, you will get the Competent Authority (CA) product code, CA contact details and recommended licence(s).
+  url: https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs
+  url-new-tab: true
+  text: Go to HS/CA Product Code Checker

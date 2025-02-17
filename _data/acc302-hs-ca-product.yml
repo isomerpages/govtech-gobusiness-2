@@ -1,0 +1,42 @@
+- accordion:
+  letter: a
+  data:
+    - title: What is Harmonised System (HS) Code and HS Classification?
+      content: |
+        The Harmonised System (HS) codes of goods is an international nomenclature developed by World Customs Organisation (WCO) for classification of goods across borders which is harmonized at the 6 digit-level (e.g. 2203.00). In ASEAN countries (e.g. Singapore), the HS codes of goods is harmonized at the 8-digit level (2203.00.11).
+
+        HS Classification is the process of finding the most specific description in the HS to classify your product. For more information, visit this [page](https://www.customs.gov.sg/businesses/harmonized-system-hs-classification-of-goods/classifying-my-products/){:target="_blank"}{:rel="noopener"}.
+
+    - title: What is Competent Authorities (CA) Product Code and what should i look out for if my product is controlled?
+      content: |
+        If the goods are subject to control by the relevant Competent Authority, you are required to comply with the respective CA's requirement when preparing and completing a permit application for submission via TradeNet. This may include having a CA product code for such controlled goods.
+
+        The Competent Authorities (CA) Product Code are product codes assigned by CAs for controlled goods or goods subjected to restrictions in Singapore. You are advised to check if your item is controlled by any CAs before it is imported into, or transhipped via, or exported from Singapore. You may enter a description of the product, HS code or CA product code in the HS/CA Product Code
+        Checker. If the product is subjected to control, the name of the CA(s) and the relevant licence information will be displayed in the search results. You may wish to liaise directly with the CA(s) and check if the product code is required to be declared in the permit application.
+
+    - title: I am keen to import or export my products but I&#39;m not sure what I should look out for. How do I get started?
+      content: |
+        You can refer to our [step-by-step guide](/run-and-grow/imports-and-exports/){:target="_blank"}{:rel="noopener"} for general guidance on the key steps to start your import, export and/or transhipment journey.
+
+    - title: What is the HS/CA Product Code Checker?
+      content: |
+        The [HS/CA Product Code Checker](https://hscodechecker.gobusiness.gov.sg/){:target="_blank"}{:rel="noopener"} is a new e-Service that is developed by MTI (GoBusiness) in collaboration with Singapore Customs and PSD to replace TradeNet's HS/CA Product Code Search Engine. It provides recommendations of HS codes, CA product codes and relevant licences required for controlled products.
+
+    - title: What are the features of the HS/CA Product Code Checker?
+      content: |
+        Powered by Large-Language Modelling capabilities, these are the key features of the HS/CA Product Code Checker:
+        - Improved search capabilities to guide traders when searching for a product;
+        - Expanded search results which include more relevant HS codes for traders' consideration; and
+        - Recommend relevant licences and direct links to licence information for majority of the controlled
+        products.
+
+    - title: Are there any fees for using the HS/CA Product Code Checker?
+      content: |
+        There are no fees required for using the HS/CA Product Code Checker.
+
+    - title: I am unable to find the HS code of my product or am not sure if I have identified the correct HS code after using the HS/CA Product Code Checker. What should I do next?
+      content: |
+        You may consider the options below:
+        1. Submit a FormSG enquiry on HS classification of goods [here](https://form.gov.sg/66e920b5fbe09ad05aff8bec){:target="_blank"}{:rel="noopener"} to Singapore Customs for an advisory on the first 4-digit HS heading at <u>no charge</u>.
+        2. Apply for a Customs Ruling on HS classification of goods [here](https://form.gov.sg/66e9280dbceb91d819607d28){:target="_blank"}{:rel="noopener"} to Singapore Customs for the complete 8-digit HS code at <u>$75 per product</u>. Click [here](https://www.customs.gov.sg/businesses/harmonized-system-hs-classification-of-goods/application-for-customs-ruling-on-classification-of-goods/){:target="_blank"}{:rel="noopener"} for more details on the Customs Ruling application.
+

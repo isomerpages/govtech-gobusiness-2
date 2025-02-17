@@ -1,0 +1,43 @@
+- title: "Step 1: Activate your Customs Account via TradeNet"
+  is_new: true
+  description: To perform transactions with Singapore Customs
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 2: Determine HS code of good(s) and if it is controlled"
+  description: A Harmonised System (HS) code is required for all goods moving in and out of Singapore. Some goods are controlled and may be subjected to additional requirements.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 3: If your goods are controlled, apply for relevant Licence(s) from Competent Authority CA"
+  description: Use the HS/CA Product Code Checker to find out the recommended licences.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 4: Apply to be a Declaring Agent (DA) or Authorise a DA to act on your behalf"
+  description: Only DAs may apply for import/export for a Customs Permit.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 5: Apply for Interbank GIRO (IBG) and eGuarantees"
+  description: Payment of duties, taxes fees and any other charges are deducted via IBG. <br>eGuarantees may not required for regulatory requirements and revenue protection purposes.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Step 6: Proceed to Apply for a Customs Permit"
+  description: A customs permit is generally required for importing, exporting and transshipment of goods in and out of Singapore.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
+- title: "Retain your Trade Documents"
+  description: You are required to retain all the relevant supporting documents relating to the goods.
+  url: https://eadviser.gobusiness.gov.sg/ipservice?src=ipgrow-about
+  url-new-tab: false
+  text: Find Out More
+
